@@ -1,5 +1,3 @@
 # Chatbot Java GUI Client Server using Database
 
-Implementasi Chatbot dalam socket dan menggunakan Database sebagai keyword.
-
-Data didatabase masih sedikit, jadi botnya masih butuh banyakk data lagi.
+The code used was done through IntelliJ, and this project was very useful in taking the first step into more complex projects.
