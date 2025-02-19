@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Chabot_Java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Chabot_Java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
